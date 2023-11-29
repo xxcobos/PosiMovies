@@ -39,7 +39,7 @@
               "src/assets/scss/_fonts.scss",
               "src/assets/scss/_mixin.scss",
               "src/assets/scss/_responsive.scss",
-              "src/assets/scss/_theme.color.scss",
+              "src/assets/scss/_theme_color.scss",
               "src/assets/scss/style.scss"
             ],
             "scripts": [
