@@ -26,11 +26,24 @@
             ],
             "styles": [
               "src/styles.css",
-              "node_modules/bootstrap/dist/css/bootstrap.min.css"
+              "node_modules/bootstrap/dist/css/bootstrap.min.css",
+              "src/assets/css/animate.css",
+              "src/assets/css/audioplayer.css",
+              "src/assets/css/bootstrap.min.css",
+              "src/assets/css/classy-nav.css",
+              "src/assets/css/font-awesome.min.css",
+              "src/assets/css/magnific-popup.css",
+              "src/assets/css/one-music-icon.css",
+              "src/assets/css/owl.carousel.min.css"
             ],
             "scripts": [
               "node_modules/bootstrap/dist/js/bootstrap.min.js",
-              "node_modules/bootstrap/dist/js/bootstrap.bundle.min.js"
+              "node_modules/bootstrap/dist/js/bootstrap.bundle.min.js",
+              "src/assets/js/active.js",
+              "src/assets/js/bootstrap/bootstrap.min.js",
+              "src/assets/js/bootstrap/popper.min.js",
+              "src/assets/js/jquery/jquery-2.2.4.min.js",
+              "src/assets/js/plugins/plugins.js"
             ]
           },
           "configurations": {
