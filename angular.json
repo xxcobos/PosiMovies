@@ -34,7 +34,13 @@
               "src/assets/css/font-awesome.min.css",
               "src/assets/css/magnific-popup.css",
               "src/assets/css/one-music-icon.css",
-              "src/assets/css/owl.carousel.min.css"
+              "src/assets/css/owl.carousel.min.css",
+
+              "src/assets/scss/_fonts.scss",
+              "src/assets/scss/_mixin.scss",
+              "src/assets/scss/_responsive.scss",
+              "src/assets/scss/_theme.color.scss",
+              "src/assets/scss/style.scss"
             ],
             "scripts": [
               "node_modules/bootstrap/dist/js/bootstrap.min.js",
