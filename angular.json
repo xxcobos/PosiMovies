@@ -25,7 +25,7 @@
               "src/assets"
             ],
             "styles": [
-              "src/styles.css",
+              "src/style.css",
               "node_modules/bootstrap/dist/css/bootstrap.min.css",
               "src/assets/css/animate.css",
               "src/assets/css/audioplayer.css",
@@ -34,13 +34,7 @@
               "src/assets/css/font-awesome.min.css",
               "src/assets/css/magnific-popup.css",
               "src/assets/css/one-music-icon.css",
-              "src/assets/css/owl.carousel.min.css",
-
-              "src/assets/scss/_fonts.scss",
-              "src/assets/scss/_mixin.scss",
-              "src/assets/scss/_responsive.scss",
-              "src/assets/scss/_theme_color.scss",
-              "src/assets/scss/style.scss"
+              "src/assets/css/owl.carousel.min.css"
             ],
             "scripts": [
               "node_modules/bootstrap/dist/js/bootstrap.min.js",
@@ -49,9 +43,7 @@
               "src/assets/js/bootstrap/bootstrap.min.js",
               "src/assets/js/bootstrap/popper.min.js",
               "src/assets/js/jquery/jquery-2.2.4.min.js",
-              "src/assets/js/plugins/plugins.js",
- 
- "js/active.js"
+              "src/assets/js/plugins/plugins.js"
             ]
           },
           "configurations": {
