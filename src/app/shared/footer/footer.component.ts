@@ -4,11 +4,10 @@ import { HttpClientModule } from  '@angular/common/http';
 
 
  //Importación de la interfaz
- import { Interfaz } from 'mpa/src/app/interfaces/interfaz';
+ import { Interfaz } from '../../interfaces/interfaz';
 
  //Importación del servicio
- import { PeliculasService } from 'mpa/src/app/providers/peliculas.service'
-
+ import { PeliculasService } from '../../providers/peliculas.service';
 
 @Component({
   selector: 'app-footer',
